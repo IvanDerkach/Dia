@@ -6,7 +6,7 @@ body {
   height: 100%;
 }
 
-.header1 {
+.header {
   height: 848px;
   overflow: hidden;
   background: url(img/header_bg.png) no-repeat;
